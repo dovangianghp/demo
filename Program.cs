@@ -7,7 +7,8 @@ namespace demoonline
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            hello;
+            float number = 1.2f;
+            Console.WriteLine(number);
         }
     }
 }
